@@ -1,0 +1,19 @@
+QMAKE_CXX.INCDIRS = \
+    /home/redectro/Projects/Citron/mxe/usr/lib/gcc/i686-w64-mingw32.static/5.4.0/include/c++ \
+    /home/redectro/Projects/Citron/mxe/usr/lib/gcc/i686-w64-mingw32.static/5.4.0/include/c++/i686-w64-mingw32.static \
+    /home/redectro/Projects/Citron/mxe/usr/lib/gcc/i686-w64-mingw32.static/5.4.0/include/c++/backward \
+    /home/redectro/Projects/Citron/mxe/usr/lib/gcc/i686-w64-mingw32.static/5.4.0/include \
+    /home/redectro/Projects/Citron/mxe/usr/lib/gcc/i686-w64-mingw32.static/5.4.0/include-fixed \
+    /home/redectro/Projects/Citron/mxe/usr/i686-w64-mingw32.static/include
+QMAKE_CXX.LIBDIRS = \
+    /home/redectro/Projects/Citron/mxe/usr/lib/gcc/i686-w64-mingw32.static/5.4.0 \
+    /home/redectro/Projects/Citron/mxe/usr/i686-w64-mingw32.static/lib
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_GCC_MAJOR_VERSION = 5
+QMAKE_CXX.QMAKE_GCC_MINOR_VERSION = 4
+QMAKE_CXX.QMAKE_GCC_PATCH_VERSION = 0
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_GCC_MAJOR_VERSION \
+    QMAKE_GCC_MINOR_VERSION \
+    QMAKE_GCC_PATCH_VERSION
